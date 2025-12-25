@@ -1,0 +1,7 @@
+{
+  "name": "Sausage Dog Menu Pal",
+  "description": "A cute, dachshund-themed AI menu translator and ordering assistant. Detects menu items, translates them, provides cultural explanations, and estimates currency conversion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,90 @@
+﻿1. 英國：茶匙位置
+* 繁體中文: 你知道嗎？在英國喝茶時，湯匙不可以留在杯子裡。
+* English: Did you know? In the UK, you shouldn't leave your spoon in the cup while drinking tea.
+* 日本語: 知っていますか？イギリスで紅茶を飲む際、スプーンをカップの中に入れたままにしてはいけません。
+* 한국어: 알고 계셨나요? 영국에서 차를 마실 때 티스푼을 컵 안에 그대로 두면 안 됩니다.
+* Tiếng Việt: Bạn có biết? Ở Anh, không nên để thìa trong tách khi đang uống trà.
+* ไทย: รู้หรือไม่? ในอังกฤษเวลาดื่มชา ไม่ควรแช่ช้อนทิ้งไว้ในถ้วย
+* Français: Le saviez-vous ? En Angleterre, il ne faut pas laisser la cuillère dans la tasse en buvant du thé.
+* Español: ¿Sabías que? En el Reino Unido, no debes dejar la cuchara dentro de la taza mientras bebes té.
+2. 土耳其：續杯信號
+* 繁體中文: 你知道嗎？在土耳其用餐完畢後，如果不想續杯茶請將茶匙橫放。
+* English: Did you know? In Turkey, place your teaspoon across the tea glass if you don't want a refill.
+* 日本語: 知っていますか？トルコでおかわりが不要な場合は、ティースプーンをグラスの上に横に置きます。
+* 한국어: 알고 계셨나요? 터키에서 차를 더 마시고 싶지 않다면 티스푼을 컵 위에 가로로 올려두세요.
+* Tiếng Việt: Bạn có biết? Ở Thổ Nhĩ Kỳ, hãy đặt thìa nằm ngang trên miệng ly nếu bạn không muốn rót thêm trà.
+* ไทย: รู้หรือไม่? ในตุรกีเมื่อดื่มชาเสร็จแล้ว หากไม่ต้องการเติมเพิ่มให้วางช้อนชาพาดไว้บนขอบแก้ว
+* Français: Le saviez-vous ? En Turquie, posez votre cuillère sur le verre si vous ne voulez plus de thé.
+* Español: ¿Sabías que? En Turquía, coloca la cucharilla sobre el vaso si no quieres que te sirvan más té.
+3. 墨西哥：塔可吃法
+* 繁體中文: 你知道嗎？在墨西哥吃塔可，當地人通常會直接用手抓著吃。
+* English: Did you know? In Mexico, people usually eat tacos with their hands, not cutlery.
+* 日本語: 知っていますか？メキシコでタコスを食べる際、現地の人は通常手で直接持って食べます。
+* 한국어: 알고 계셨나요? 멕시코에서 타코를 먹을 때 현지인들은 보통 손으로 직접 들고 먹습니다.
+* Tiếng Việt: Bạn có biết? Ở Mexico, người dân địa phương thường dùng tay trực tiếp để ăn taco.
+* ไทย: รู้หรือไม่? ในเม็กซิโก การกินทาโก้มักจะใช้มือหยิบกินโดยตรง
+* Français: Le saviez-vous ? Au Mexique, on mange généralement les tacos avec les mains.
+* Español: ¿Sabías que? En México, la gente suele comer los tacos directamente con las manos.
+4. 義大利：海鮮麵禁忌
+* 繁體中文: 你知道嗎？在義大利吃海鮮義大利麵，通常是不加起司粉的。
+* English: Did you know? In Italy, it's uncommon to add cheese to seafood pasta.
+* 日本語: 知っていますか？イタリアでは海鮮パスタに粉チーズをかけないのが一般的です。
+* 한국어: 알고 계셨나요? 이탈리아에서 해산물 파스타를 먹을 때는 보통 치즈 가루를 뿌리지 않습니다.
+* Tiếng Việt: Bạn có biết? Ở Ý, người ta thường không cho thêm phô mai vào mì Ý hải sản.
+* ไทย: รู้หรือไม่? ในอิตาลี การกินพาสต้าอาหารทะเลมักจะไม่โรยชีส
+* Français: Le saviez-vous ? En Italie, on n'ajoute généralement pas de fromage sur les pâtes aux fruits de mer.
+* Español: ¿Sabías que? En Italia, no se suele añadir queso a la pasta de mariscos.
+5. 德國：乾杯禮儀
+* 繁體中文: 你知道嗎？在德國與人碰杯時，視線必須看著對方的眼睛。
+* English: Did you know? In Germany, you must maintain eye contact when clinking glasses.
+* 日本語: 知っていますか？ドイツで乾杯する際、相手の目を見てグラスを合わせるのがマナーです。
+* 한국어: 알고 계셨나요? 독일에서 건배할 때는 반드시 상대방의 눈을 쳐다봐야 합니다.
+* Tiếng Việt: Bạn có biết? Ở Đức, khi chạm ly, bạn phải nhìn thẳng vào mắt đối phương.
+* ไทย: รู้หรือไม่? ในเยอรมนีเวลาชนแก้ว คุณต้องสบตาอีกฝ่ายด้วย
+* Français: Le saviez-vous ? En Allemagne, il faut regarder l'autre dans les yeux au moment de trinquer.
+* Español: ¿Sabías que? En Alemania, debes mirar a los ojos de la otra persona al brindar.
+6. 俄羅斯：喝酒誠意
+* 繁體中文: 你知道嗎？在俄羅斯收下酒後如果不喝掉，會被視為不禮貌。
+* English: Did you know? In Russia, refusing to finish a drink offered to you is considered impolite.
+* 日本語: 知っていますか？ロシアでお酒を勧められた際、飲み干さないのは失礼にあたります。
+* 한국어: 알고 계셨나요? 러시아에서 술을 받은 후 다 마시지 않으면 무례한 행동으로 간주됩니다.
+* Tiếng Việt: Bạn có biết? Ở Nga, nếu đã nhận rượu mà không uống hết sẽ bị coi là bất lịch sự.
+* ไทย: รู้หรือไม่? ในรัสเซียเมื่อได้รับเหล้าแล้วหากไม่ดื่มให้หมด จะถือว่าเสียมารยาท
+* Français: Le saviez-vous ? En Russie, il est impoli de ne pas finir un verre d'alcool que l'on vous a offert.
+* Español: ¿Sabías que? En Rusia, se considera de mala educación no terminarse una bebida ofrecida.
+7. 西班牙：午餐時間
+* 繁體中文: 你知道嗎？在西班牙用餐，通常要到下午兩點後才開始吃午餐。
+* English: Did you know? In Spain, lunch usually doesn't start until after 2 PM.
+* 日本語: 知っていますか？スペインでの昼食は、通常午後2時以降に始まります。
+* 한국어: 알고 계셨나요? 스페인에서는 보통 오후 2시가 넘어야 점심 식사를 시작합니다.
+* Tiếng Việt: Bạn có biết? Ở Tây Ban Nha, bữa trưa thường chỉ bắt đầu sau 2 giờ chiều.
+* ไทย: รู้หรือไม่? ในสเปน มื้อกลางวันมักจะเริ่มกินกันหลังบ่ายสองโมงเป็นต้นไป
+* Français: Le saviez-vous ? En Espagne, le déjeuner ne commence généralement qu'après 14 heures.
+* Español: ¿Sabías que? En España, el almuerzo no suele empezar hasta después de las dos de la tarde.
+8. 埃及：鹽與廚師
+* 繁體中文: 你知道嗎？在埃及鹽罐通常不在桌上，要求加鹽代表廚師手藝不佳。
+* English: Did you know? In Egypt, asking for salt means you find the chef's cooking inadequate.
+* 日本語: 知っていますか？エジプトで塩を求めるのは、料理が不十分だという意味になり失礼です。
+* 한국어: 알고 계셨나요? 이집트에서 소금을 달라고 하는 것은 요리사의 솜씨가 부족하다는 뜻입니다.
+* Tiếng Việt: Bạn có biết? Ở Ai Cập, yêu cầu thêm muối đồng nghĩa với việc chê đầu bếp nấu ăn không ngon.
+* ไทย: รู้หรือไม่? ในอียิปต์ การขอเกลือเพิ่มหมายถึงคุณคิดว่าพ่อครัวปรุงอาหารได้ไม่อร่อย
+* Français: Le saviez-vous ? En Égypte, demander du sel signifie que vous trouvez la cuisine du chef médiocre.
+* Español: ¿Sabías que? En Egipto, pedir sal significa que consideras que la comida del chef no es buena.
+9. 摩洛哥：共食文化
+* 繁體中文: 你知道嗎？在摩洛哥吃飯，通常會從共用的圓盤中取用食物。
+* English: Did you know? In Morocco, people usually eat from a shared communal plate.
+* 日本語: 知っていますか？モロッコでは通常、大きな皿を共有して食事をします。
+* 한국어: 알고 계셨나요? 모로코에서는 보통 커다란 공용 접시 하나에서 음식을 함께 나눠 먹습니다.
+* Tiếng Việt: Bạn có biết? Ở Maroc, mọi người thường ăn chung từ một đĩa lớn dùng chung.
+* ไทย: รู้หรือไม่? ในโมร็อกโก การกินข้าวมักจะตักแบ่งกินจากจานกลางใบใหญ่ร่วมกัน
+* Français: Le saviez-vous ? Au Maroc, on mange généralement tous dans un grand plat commun.
+* Español: ¿Sabías que? En Marruecos, la gente suele comer de un plato común compartido.
+10. 保加利亞：相反的肢體語言
+* 繁體中文: 你知道嗎？在保加利亞點頭代表不同意，搖頭反而代表同意。
+* English: Did you know? In Bulgaria, nodding means "no" and shaking your head means "yes."
+* 日本語: 知っていますか？ブルガリアでは、頷くと「いいえ」、首を振ると「はい」を意味します。
+* 한국어: 알고 계셨나요? 불가리아에서는 고개를 끄덕이면 아니오, 가로저으면 예를 의미합니다.
+* Tiếng Việt: Bạn có biết? Ở Bulgaria, gật đầu nghĩa là không, còn lắc đầu lại nghĩa là đồng ý.
+* ไทย: รู้หรือไม่? ในบัลแกเรีย การพยักหน้าหมายถึงไม่ แต่การส่ายหน้าหมายถึงใช่
+* Français: Le saviez-vous ? En Bulgarie, hocher la tête signifie « non » et secouer la tête signifie « oui ».
+* Español: ¿Sabías que? En Bulgaria, asentir con la cabeza significa "no" y negar con la cabeza significa "sí".
