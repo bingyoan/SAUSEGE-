@@ -19,6 +19,19 @@ const GenerateSchema = z.object({
     }).optional()
 });
 
+// 🔥 定義強制翻譯的系統指令 (這是我們的新武器)
+const FORCE_CHINESE_INSTRUCTION = `
+CRITICAL LOCALIZATION RULES (OVERRIDE ALL OTHERS):
+1. **TARGET LANGUAGE**: Traditional Chinese (Taiwan usage).
+2. **TRANSLATE CATEGORIES**: You MUST translate ALL category names/section headers.
+   - Input: "Miscellaneous Dishes" -> Output: "綜合/其他菜色"
+   - Input: "Starters" -> Output: "開胃菜"
+   - Input: "Oriental Dishes" -> Output: "東方料理"
+   - NEVER leave category names in English, Japanese, or Korean.
+3. **DISH NAMES**: Translate dish names to semantic Chinese.
+4. **CURRENCY**: Keep numbers exactly as shown.
+`;
+
 export async function POST(req: Request) {
     console.log(`[API Proxy] Received request at ${new Date().toISOString()}`);
     try {
@@ -44,19 +57,39 @@ export async function POST(req: Request) {
             }, { status: 400 });
         }
 
-        const { model, contents, config } = parseResult.data;
+        // 解構出原本的參數，注意這裡我們用 let 因為我們要修改 config
+        let { model, contents, config } = parseResult.data;
 
-        // 3. EXECUTE GEMINI REQUEST
+        // =========================================================
+        // 🛠️ 3. 強制注入「絕對中文」指令 (INJECTION START)
+        // =========================================================
+        
+        // 確保 config 存在
+        if (!config) {
+            config = {};
+        }
+
+        // 取出原本前端傳來的指令 (如果有的話)
+        const originalInstruction = config.systemInstruction || "";
+
+        // 將我們的「強制指令」接在原本指令的後面，權重更高
+        // 這樣 AI 會先讀原本的，最後讀到這個「最重要的規則」
+        config.systemInstruction = `${originalInstruction}\n\n${FORCE_CHINESE_INSTRUCTION}`;
+
+        console.log(`[API Proxy] System Instruction injected with Force Chinese rules.`);
+
+        // =========================================================
+        // 🛠️ INJECTION END
+        // =========================================================
+
+        // 4. EXECUTE GEMINI REQUEST
         console.log(`[API Proxy] Calling Google GenAI SDK...`);
         const ai = new GoogleGenAI({ apiKey: apiKey });
 
-        // If the newer getGenerativeModel style fails, we might need to revert or use the models namespace
-        // based on the specific version of @google/genai installed.
-        // Let's use the namespace style as it was present in the original (presumably working) logic.
         const response = await ai.models.generateContent({
             model: model,
             contents: contents,
-            config: config
+            config: config // 這裡傳進去的是我們修改過、加強過的 config
         });
 
         console.log(`[API Proxy] SDK Success`);

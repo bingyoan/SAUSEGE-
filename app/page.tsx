@@ -195,7 +195,7 @@ export default function Page() {
     const [currentLang, setCurrentLang] = useState<LangKey | null>(null);
     
     // ★ 修改點 1：更新為新的 Gumroad 連結
-    const DOWNLOAD_LINK = "https://bingyoan.gumroad.com/l/chkqus";
+    const DOWNLOAD_LINK = "https://bingyoan.gumroad.com/l/ihrnvp";
 
     const IMAGES = {
         hero_phone: "/images/show.jpg",      
